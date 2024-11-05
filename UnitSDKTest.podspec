@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.description      = 'The iOS implementation of UnitSDKTest'
   s.swift_version = '5.0'
   s.license          = { :type => 'Copyright' }
-  s.author           = 'OpenWeb'
+  s.author           = 'Unit'
   s.platform        = :ios
   s.homepage         = 'https://bitbucket.org/aniviewteam/spotim-sdk-kmm'
   s.source           = { :git => "git@github.com:alonshp/UnitSDKTest.git", :tag => "#{s.version}"}
