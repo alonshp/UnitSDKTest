@@ -2,13 +2,13 @@
 triple:          'arm64-apple-darwin'
 binary-path:     '/Users/alonshprung/Library/Developer/Xcode/DerivedData/UnitSDK-Development-dkbybutmfmvcqiedvcqesjzyigiv/Build/Intermediates.noindex/ArchiveIntermediates/UnitSDK/InstallationBuildProductsLocation/Library/Frameworks/UnitSDK.framework/UnitSDK'
 relocations:
-  - { offsetInCU: 0x34, offset: 0x2E705, size: 0x8, addend: 0x0, symName: _UnitSDKVersionString, symObjAddr: 0x0, symBinAddr: 0x4310, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x2E73A, size: 0x8, addend: 0x0, symName: _UnitSDKVersionNumber, symObjAddr: 0x38, symBinAddr: 0x4348, symSize: 0x0 }
-  - { offsetInCU: 0xBA, offset: 0x2E80A, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x40, symBinAddr: 0x4040, symSize: 0x40 }
-  - { offsetInCU: 0xFE, offset: 0x2E84E, size: 0x8, addend: 0x0, symName: '_$s7UnitSDK0A8SdkClassCMa', symObjAddr: 0x234, symBinAddr: 0x4234, symSize: 0x20 }
-  - { offsetInCU: 0x240, offset: 0x2E990, size: 0x8, addend: 0x0, symName: '_$s7UnitSDK0A8SdkClassCACycfC', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x10 }
-  - { offsetInCU: 0x254, offset: 0x2E9A4, size: 0x8, addend: 0x0, symName: '_$s7UnitSDK0A8SdkClassCACycfc', symObjAddr: 0x10, symBinAddr: 0x4010, symSize: 0x8 }
-  - { offsetInCU: 0x29F, offset: 0x2E9EF, size: 0x8, addend: 0x0, symName: '_$s7UnitSDK0A8SdkClassC9testFraudyyF', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0xAC }
-  - { offsetInCU: 0x32F, offset: 0x2EA7F, size: 0x8, addend: 0x0, symName: '_$s7UnitSDK0A8SdkClassCfd', symObjAddr: 0x21C, symBinAddr: 0x421C, symSize: 0x8 }
-  - { offsetInCU: 0x354, offset: 0x2EAA4, size: 0x8, addend: 0x0, symName: '_$s7UnitSDK0A8SdkClassCfD', symObjAddr: 0x224, symBinAddr: 0x4224, symSize: 0x10 }
+  - { offsetInCU: 0x34, offset: 0x2E6B9, size: 0x8, addend: 0x0, symName: _UnitSDKVersionString, symObjAddr: 0x0, symBinAddr: 0x4310, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x2E6EE, size: 0x8, addend: 0x0, symName: _UnitSDKVersionNumber, symObjAddr: 0x38, symBinAddr: 0x4348, symSize: 0x0 }
+  - { offsetInCU: 0xBA, offset: 0x2E7BE, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x40, symBinAddr: 0x4040, symSize: 0x40 }
+  - { offsetInCU: 0xFE, offset: 0x2E802, size: 0x8, addend: 0x0, symName: '_$s7UnitSDK0A8SdkClassCMa', symObjAddr: 0x234, symBinAddr: 0x4234, symSize: 0x20 }
+  - { offsetInCU: 0x22C, offset: 0x2E930, size: 0x8, addend: 0x0, symName: '_$s7UnitSDK0A8SdkClassCACycfC', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x10 }
+  - { offsetInCU: 0x240, offset: 0x2E944, size: 0x8, addend: 0x0, symName: '_$s7UnitSDK0A8SdkClassCACycfc', symObjAddr: 0x10, symBinAddr: 0x4010, symSize: 0x8 }
+  - { offsetInCU: 0x28B, offset: 0x2E98F, size: 0x8, addend: 0x0, symName: '_$s7UnitSDK0A8SdkClassC9testFraudyyF', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0xAC }
+  - { offsetInCU: 0x31B, offset: 0x2EA1F, size: 0x8, addend: 0x0, symName: '_$s7UnitSDK0A8SdkClassCfd', symObjAddr: 0x21C, symBinAddr: 0x421C, symSize: 0x8 }
+  - { offsetInCU: 0x340, offset: 0x2EA44, size: 0x8, addend: 0x0, symName: '_$s7UnitSDK0A8SdkClassCfD', symObjAddr: 0x224, symBinAddr: 0x4224, symSize: 0x10 }
 ...
