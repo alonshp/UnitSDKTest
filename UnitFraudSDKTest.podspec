@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.source           = { :git => "git@github.com:alonshp/UnitSDKTest.git", :tag => "#{s.version}"}
   s.ios.deployment_target = '13.0'
 
-  s.ios.vendored_frameworks = 'UnitFraudSDK.xcframework'
+  s.ios.vendored_frameworks = 'UnitFraud.xcframework'
   s.dependency 'UnitCoreSDKTest', "#{s.version}"
 end
