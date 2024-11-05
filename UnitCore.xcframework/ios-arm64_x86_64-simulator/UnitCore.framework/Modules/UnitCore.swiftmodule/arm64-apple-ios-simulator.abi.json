@@ -1,0 +1,76 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UnitCore",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UnitCoreClass",
+        "printedName": "UnitCoreClass",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UnitCoreClass",
+                "printedName": "UnitCore.UnitCoreClass",
+                "usr": "s:8UnitCore0aB5ClassC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8UnitCore0aB5ClassCACycfc",
+            "mangledName": "$s8UnitCore0aB5ClassCACycfc",
+            "moduleName": "UnitCore",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "test",
+            "printedName": "test()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8UnitCore0aB5ClassC4testyyF",
+            "mangledName": "$s8UnitCore0aB5ClassC4testyyF",
+            "moduleName": "UnitCore",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:8UnitCore0aB5ClassC",
+        "mangledName": "$s8UnitCore0aB5ClassC",
+        "moduleName": "UnitCore",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

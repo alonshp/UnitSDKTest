@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/alonshprung/Library/Developer/Xcode/DerivedData/UnitSDK-Development-dkbybutmfmvcqiedvcqesjzyigiv/Build/Intermediates.noindex/ArchiveIntermediates/UnitFraud/InstallationBuildProductsLocation/Library/Frameworks/UnitFraud.framework/UnitFraud'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x2E66D, size: 0x8, addend: 0x0, symName: _UnitFraudVersionString, symObjAddr: 0x0, symBinAddr: 0x41E0, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x2E6A2, size: 0x8, addend: 0x0, symName: _UnitFraudVersionNumber, symObjAddr: 0x38, symBinAddr: 0x4218, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x2E6DF, size: 0x8, addend: 0x0, symName: '_$s9UnitFraud0aB5ClassCACycfC', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x10 }
+  - { offsetInCU: 0xEA, offset: 0x2E7A2, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x40 }
+  - { offsetInCU: 0xFE, offset: 0x2E7B6, size: 0x8, addend: 0x0, symName: '_$s9UnitFraud0aB5ClassCMa', symObjAddr: 0x11C, symBinAddr: 0x411C, symSize: 0x20 }
+  - { offsetInCU: 0x1EC, offset: 0x2E8A4, size: 0x8, addend: 0x0, symName: '_$s9UnitFraud0aB5ClassCACycfC', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x10 }
+  - { offsetInCU: 0x200, offset: 0x2E8B8, size: 0x8, addend: 0x0, symName: '_$s9UnitFraud0aB5ClassCACycfc', symObjAddr: 0x10, symBinAddr: 0x4010, symSize: 0x8 }
+  - { offsetInCU: 0x24B, offset: 0x2E903, size: 0x8, addend: 0x0, symName: '_$s9UnitFraud0aB5ClassC4testyyF', symObjAddr: 0x18, symBinAddr: 0x4018, symSize: 0xAC }
+  - { offsetInCU: 0x2DB, offset: 0x2E993, size: 0x8, addend: 0x0, symName: '_$s9UnitFraud0aB5ClassCfd', symObjAddr: 0x104, symBinAddr: 0x4104, symSize: 0x8 }
+  - { offsetInCU: 0x300, offset: 0x2E9B8, size: 0x8, addend: 0x0, symName: '_$s9UnitFraud0aB5ClassCfD', symObjAddr: 0x10C, symBinAddr: 0x410C, symSize: 0x10 }
+...
