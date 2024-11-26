@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.version = '2.0.0'
+  s.version = '3.0.0'
   s.name             = "UnitSDKTest"
   s.summary          = 'SDK iOS UnitSDKTest'
   s.description      = 'The iOS implementation of UnitSDKTest'
@@ -12,7 +12,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '13.0'
 
   s.ios.vendored_frameworks = 'UnitSDK.xcframework'
-  s.dependency 'UnitCoreSDKTest', "=1.0.0"
-  s.dependency 'UnitFraudSDKTest', "=1.0.0"
-  s.dependency 'UnitPushProvisioningSDKTest', "=1.0.0"
+  s.dependency 'UnitCoreSDKTest', "#{s.version}"
+  s.dependency 'UnitFraudSDKTest', "#{s.version}"
 end
