@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.version = '3.0.0'
+  s.version = '4.0.0'
   s.name             = "UnitCoreSDKTest"
   s.summary          = 'SDK iOS UnitCoreSDKTest'
   s.description      = 'The iOS implementation of UnitCoreSDKTest'
